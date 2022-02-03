@@ -28,7 +28,7 @@ I developed and deployed [semantic image segmentation](https://openaccess.thecvf
 
 ## Interaction Lab
 
-At the interaction lab I work to develop robotic systems that will enable human robot interaction (HRI) research. Presently this takes the form of a [robot operating system (ROS)](https://www.ros.org/) stack called [HARMONI](https://github.com/interaction-lab/HARMONI) which we have structured to make it easy to add new robots (robot agnostic) and create new interactions for research.
+At the interaction lab I worked to develop a robotic system to enable human robot interaction (HRI) research. This took the form of a [robot operating system (ROS)](https://www.ros.org/) stack called [HARMONI](https://github.com/interaction-lab/HARMONI) which we structured to make it easy to add new robots (robot agnostic) and create new interactions for research.
 
 # Side-Projects
 

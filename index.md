@@ -18,7 +18,7 @@ I am presently working at [NASA Jet Propulsion Laboratory (JPL) as a Robotics Sy
 
 ## NASA Jet Propulsion Laboratory (JPL)
 
-For the moment I am working on the [EELS](https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/exobiology-extant-life-surveyor-eels/), RACER, and ShadowNav projects. [EELS is an exciting project](https://kiss.caltech.edu/lectures/2019_EELS.html) where we are building a snake robot for exploration on Enceladus (a moon of Saturn). [RACER](https://spectrum.ieee.org/darpa-robot-racer) involves high speed off-road autonomy. ShadowNav involves lunar navigation around permanently shadowed regions of the moon.
+For the moment I am working on the [EELS](https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/exobiology-extant-life-surveyor-eels/) and long range lunar rover projects. EELS [(summary)](https://youtu.be/ifCIDT4X9AM?si=Ys18fMtEiLXFcopT) is [an exciting project](https://kiss.caltech.edu/lectures/2019_EELS.html) where we are building a snake robot for exploration on Enceladus (a moon of Saturn). In the past I also worked on the RACER and ShadowNav projects. [RACER](https://spectrum.ieee.org/darpa-robot-racer) involves high speed off-road autonomy. ShadowNav involves lunar navigation around permanently shadowed regions of the moon.
 
 ### Past Work
 
